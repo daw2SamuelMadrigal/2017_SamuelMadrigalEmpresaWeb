@@ -1,0 +1,7 @@
+es\albarregas\filters\UTF8Filter.class
+es\albarregas\beans\Producto.class
+es\albarregas\DAO\ProductosDAO.class
+es\albarregas\DAOFACTORY\MySQLDAOFactory.class
+es\albarregas\DAO\IProductosDAO.class
+es\albarregas\DAO\ConnectionFactory.class
+es\albarregas\DAOFACTORY\DAOFactory.class
